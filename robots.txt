@@ -1,5 +1,5 @@
 # www.robotstxt.org/
-
+Deleting all the robots files
 # Allow crawling of all content
 User-agent: *
 Disallow:
